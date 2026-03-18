@@ -68,5 +68,8 @@ plt.show()
 <img width="753" height="724" alt="image" src="https://github.com/user-attachments/assets/eb1992d5-5c24-4d25-81b0-d46d87b7242e" />
 
 
+
+
+
 ## Result:
 Thus to write a program to predict daily temperature , PM2.5 pollution level and Energy based on environmental sensor data using Random Forest Algorithm is created.
